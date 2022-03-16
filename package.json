@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/henlina90/node-express-project-config/issues"
   },
-  "homepage": "https://github.com/henlina90/node-express-project-config#readme"
+  "homepage": "https://github.com/henlina90/node-express-project-config#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
